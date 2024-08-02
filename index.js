@@ -1,0 +1,1 @@
+$(".info").addClass("changeColor");
